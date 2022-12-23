@@ -20,6 +20,14 @@ paths:
     post:
       description: Says hello to the client
 
+      # Used in naming API classes
+      tags:
+        - hello
+      summary: Say Hello
+
+      # Controller method name
+      operationId: sayHello
+
       #Request body definition
       requestBody:
         required: true
