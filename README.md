@@ -6,5 +6,3 @@ Dependencies:
 * spring-data-jpa
 * openapi
 * openapi-ui
-
-P
